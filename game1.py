@@ -40,7 +40,7 @@ tubegap=150
 tubevelocity=3
 
 backgroud_image=pygame.image.load("C:\\Users\\MSI-PC\\Downloads\\python\\demon\\bkgr.png")
-bird_image=pygame.image.load(r'C:\Users\MSI-PC\Downloads\python\demon\Screenshot 2025-02-21 222250.png')
+bird_image=pygame.image.load(r'C:\Users\MSI-PC\Downloads\python\demon\Picture1.png')
 bird_image=pygame.transform.scale(bird_image,(BIRD_WIDH,BIRD_HIGH))
 while running:
     clock.tick(60)
